@@ -1,4 +1,9 @@
+<div align="center">
+
 ![Network Fundmentals](https://github.com/AliElbassuony/TryHackMe/blob/main/images/4.jpg)
+
+</div>
+
 
 <h1 align="center"> Network Fundmentals </h1>
 
