@@ -24,7 +24,11 @@
 
 - The Internet is one giant network that consists of many, many small networks within itself
 
+<div align="center">
+
 ![The Internet](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/what-is-the-internet/internet2.png)
+
+</div>
 
 - the Internet is made up of many small networks all joined together.
 - Small networks are called `private networks`
@@ -59,7 +63,11 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
   - An IP Address
   - A Media Access Control (MAC) Address -- think of this as being similar to a serial number.
 
+<div align="center">
+
 ![Addresses](https://assets.tryhackme.com/additional/cmn-aoc2020/day-8/1.png)
+
+</div>
 
 ### IP Addresses
 
@@ -67,7 +75,11 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 
 - IP address can then be associated with another device without the IP address changing
 
+<div align="center">
+
 ![IP Address](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/what-is-a-network/octets.png)
+
+</div>
 
 - IP address is a set of numbers that are divided into `4 octets`
 
@@ -107,7 +119,11 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 
 - The first 6 characters represent the company that made the network interface, and the last 6 is a unique number.
 
+<div align="center">
+
 ![MAC Address](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/what-is-a-network/mac_address.png)
+
+</div>
 
 - an interesting thing with MAC addresses is that they can be faked or "spoofed" in a process known as spoofing.
 
@@ -121,7 +137,11 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 - Ping uses `ICMP (Internet Control Message Protocol)` packets
 - to Determine performance of a connection betwen devices if connection exist or reliable
 
+<div align="center">
+
 ![Ping ICMP](https://assets.tryhackme.com/additional/networking-fundamentals/intro-to-networking/ping/ping1.png)
+
+</div>
 
 - time taken for ICMP packets travelling between devices is measured by ping
 
