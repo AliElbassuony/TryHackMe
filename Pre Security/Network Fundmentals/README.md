@@ -1,4 +1,4 @@
-![Network Fundmentals](https://github.com/AliElbassuony/TryHackMe/blob/main/images/5.jpg)
+![Network Fundmentals](https://github.com/AliElbassuony/TryHackMe/blob/main/images/4.jpg)
 
 <h1 align="center"> Network Fundmentals </h1>
 
