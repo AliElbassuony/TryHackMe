@@ -45,7 +45,9 @@
 | At a high level, we can even think of as | hardware                   | software                                                                              |
 
 ```
-The first iteration of the Internet was within the ARPANET project in the late 1960s. This project was funded by the United States Defence Department and was the first documented network in action. However, it wasn't until 1989 when the Internet as we know it was invented by Tim Berners-Lee by the creation of the World Wide Web (WWW).
+The first iteration of the Internet was within the ARPANET project in the late 1960s.
+This project was funded by the United States Defence Department and was the first documented network in action.
+However, it wasn't until 1989 when the Internet as we know it was invented by Tim Berners-Lee by the creation of the World Wide Web (WWW).
 ```
 
 ## Identifying Devices on a Network
