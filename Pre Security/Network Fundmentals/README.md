@@ -151,6 +151,8 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 
 - `ping IP address or website URL`
 
+---------------------------------------------------------------------------------------------------------------
+
 ## Introducing LAN Topologies
 
 ### Local Area Network (LAN) Topologies
