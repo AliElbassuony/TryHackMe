@@ -151,6 +151,16 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 
 - `ping IP address or website URL`
 
+## Introducing LAN Topologies
+
+### Local Area Network (LAN) Topologies
+
+- Experimentation and implementation of various network designs.
+
+-  The term `topology`, we are actually referring to the design or look of the network at hand.
+
+#### Star Topology
+
 ### Broadcasting
 
 - in computer network is a group communication, where a sender sends data to receivers simultaneously.
