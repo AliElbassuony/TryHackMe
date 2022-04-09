@@ -163,6 +163,10 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 
 #### Star Topology
 
+
+
+----
+
 ### Broadcasting
 
 - in computer network is a group communication, where a sender sends data to receivers simultaneously.
