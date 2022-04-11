@@ -167,6 +167,7 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 - The most commonly found today because of its reliability and scalability - despite the cost.
 - Any information sent to a device in this topology is sent via the central device to which it connects.
 
+#### Bus Topology
 ----
 
 ### Broadcasting
