@@ -182,3 +182,6 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
   - Traffic Management
   - make a network simpler
   - improved security
+
+### HTTP 
+- Hypertext Transfer Protocol (HTTP) is the protocol that specifies how a web browser and a web server communicate. Your web browser requests content from the website web server using the HTTP protocol.
