@@ -170,6 +170,21 @@ it wasn't until 1989 when the Internet as we know it was invented by Tim Berners
 #### Bus Topology
 ----
 
+### OSI (Open Systems Interconnection) Model
+
+- is a standardised model which we use to demonstrate the theory behind computer networking.
+
+### Application Layer
+
+- provides networking options to programs running on a computer.
+- It works almost exclusively with applications
+- providing an interface for them to use in order to transmit data.
+- passes data down to Presentation Layer
+
+### Presentation
+
+- 
+
 ### Broadcasting
 
 - in computer network is a group communication, where a sender sends data to receivers simultaneously.
