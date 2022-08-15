@@ -1,6 +1,6 @@
 <div align="center">
 
-![SQL Injection](https://github.com/AliElbassuony/TryHackMe/blob/main/images/4.jpg)
+![SQL Injection](https://github.com/AliElbassuony/TryHackMe/blob/main/images/prevent-sql-exploit-icon.png)
 
 </div>
 
