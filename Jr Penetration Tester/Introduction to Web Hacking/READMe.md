@@ -1,6 +1,6 @@
 <div align="center">
 
-![Introduction to Web Hacking](https://github.com/AliElbassuony/TryHackMe/blob/main/images/3.jpg)
+![Introduction to Web Hacking](https://github.com/AliElbassuony/TryHackMe/blob/main/images/hacking-web-applications.png)
 
 </div>
 
