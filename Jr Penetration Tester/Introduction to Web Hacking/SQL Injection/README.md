@@ -1,15 +1,15 @@
 <div align="center">
 
-![Network Fundmentals](https://github.com/AliElbassuony/TryHackMe/blob/main/images/4.jpg)
+![SQL Injection](https://github.com/AliElbassuony/TryHackMe/blob/main/images/4.jpg)
 
 </div>
 
-<h1 align="center"> SQL </h1>
+<h1 align="center"> SQL Injection </h1>
 
 <div align="center">
 
-![7%](https://progress-bar.dev/7/?title=Progress)
+![100%](https://progress-bar.dev/100/?title=Progress)
 
 </div>
 
-## What is Networking?
+## What is a Database?
