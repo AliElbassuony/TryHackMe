@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center"> SQL </h1>
+<h1 align="center"> Introduction to Web Hacking </h1>
 
 <div align="center">
 
